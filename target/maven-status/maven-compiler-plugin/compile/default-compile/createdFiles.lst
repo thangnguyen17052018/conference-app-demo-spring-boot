@@ -1,0 +1,9 @@
+com\tma\repositories\SessionRepository.class
+com\tma\repositories\SpeakerRepository.class
+com\tma\ConferenceDemoApplication.class
+com\tma\controllers\SessionsController.class
+com\tma\models\Speaker.class
+com\tma\config\PersistenceConfiguration.class
+com\tma\models\Session.class
+com\tma\controllers\HomeController.class
+com\tma\controllers\SpeakersController.class
